@@ -32,9 +32,10 @@ Depending on the target's Access Point (AP), to recover the plain text WPA/WPA2 
 <li>Parrot Os</li>
 <ul>
 
+
 ### Installation ###
 
-<ul type="square"
+<ul type="square">
 <li>chmod +x install.sh</li>
 <li>sudo ./install.sh</li>
 </ul>
