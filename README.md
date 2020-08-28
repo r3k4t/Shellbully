@@ -107,6 +107,7 @@ Additionally, airodump-ng writes out several files containing the details of all
 <ul="bold">
 <li>chmod +x airodump-ng</li>
 <li>sudo ./airodump-ng.sh</li>
+</ul>
 
 ![Screenshot at 2020-08-28 18-19-41](https://user-images.githubusercontent.com/69615463/91583122-5e8a0780-e96e-11ea-8a04-563c8bba6648.png)
 
