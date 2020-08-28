@@ -83,6 +83,12 @@ Wash is an auxiliary tool designed to display WPS enabled Access Points and thei
 
 Wash can detect wifi wps lock enable or disable.
 
+<h4>Linux Terminal Command</h4>
+
+chmod +x wash.sh
+<br>
+sudo ./wash.sh
+
 ![Screenshot at 2020-08-28 17-38-26](https://user-images.githubusercontent.com/69615463/91582846-0521d880-e96e-11ea-934a-104be4408da2.png)
 
 ![Screenshot at 2020-08-28 17-38-47](https://user-images.githubusercontent.com/69615463/91582927-24b90100-e96e-11ea-9a07-4aaf91c3cca1.png)
@@ -94,6 +100,12 @@ Wash can detect wifi wps lock enable or disable.
 Airodump-ng is used for packet capturing of raw 802.11 frames and is particularly suitable for collecting WEP IVs (Initialization Vector) for the intent of using them with aircrack-ng. If you have a GPS receiver connected to the computer, airodump-ng is capable of logging the coordinates of the found access points.
 
 Additionally, airodump-ng writes out several files containing the details of all access points and clients seen.
+
+<h4>Linux Terminal Command</h4>
+
+chmod +x airodump-ng
+<br>
+sudo ./airodump-ng.sh
 
 ![Screenshot at 2020-08-28 18-19-41](https://user-images.githubusercontent.com/69615463/91583122-5e8a0780-e96e-11ea-8a04-563c8bba6648.png)
 
