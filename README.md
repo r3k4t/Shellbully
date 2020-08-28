@@ -85,7 +85,7 @@ Wash can detect wifi wps lock enable or disable.
 
 <h4>Linux Terminal Command</h4>
 
-<ul="bold">
+<ul>
 <li>chmod +x wash.sh</li>
 <li>sudo ./wash.sh</li>
 </ul>
@@ -104,7 +104,7 @@ Additionally, airodump-ng writes out several files containing the details of all
 
 <h4>Linux Terminal Command</h4>
 
-<ul="bold">
+<ul>
 <li>chmod +x airodump-ng</li>
 <li>sudo ./airodump-ng.sh</li>
 </ul>
