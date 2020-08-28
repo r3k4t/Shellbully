@@ -6,13 +6,15 @@
 
 ### Description ###
 
+
               ███████ ██   ██ ███████ ██      ██      ██████  ██    ██ ██      ██   ██    ██ 
               ██      ██   ██ ██      ██      ██      ██   ██ ██    ██ ██      ██    ██  ██  
               ███████ ███████ █████   ██      ██      ██████  ██    ██ ██      ██     ████   
                    ██ ██   ██ ██      ██      ██      ██   ██ ██    ██ ██      ██      ██    
               ███████ ██   ██ ███████ ███████ ███████ ██████   ██████  ███████ ███████ ██    
-                                                                       
-                             Advance  WPS vulnerability assessment utility
+              
+                            
+                            Advance  WPS vulnerability assessment utility
 
                         
 Shellbully implements a brute force attack against Wifi Protected Setup (WPS) registrar PINs in order to recover WPA/WPA2 passphrases, as described in Brute forcing Wi-Fi Protected Setup When poor design meets poor implementation.
@@ -32,9 +34,10 @@ Depending on the target's Access Point (AP), to recover the plain text WPA/WPA2 
 
 ### Installation ###
 
-chmod +x install.sh
-<br>
-sudo ./install.sh
+<ul type="square"
+<li>chmod +x install.sh</li>
+<li>sudo ./install.sh</li>
+</ul>
 
 ![Screenshot at 2020-08-28 11-38-12](https://user-images.githubusercontent.com/69615463/91568069-ec5ff580-e962-11ea-954f-1992c1da1ee4.png)
 
