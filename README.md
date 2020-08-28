@@ -58,9 +58,9 @@ sudo ./shellbully.sh
 ### Menu ###
 
 <ul type = "square">
-<li>BullyWps<li>
-<li>Wash<li>
-<li>Airodump-ng<li>
+<li>BullyWps</li>
+<li>Wash</li>
+<li>Airodump-ng</li>
 <ul>
 
 ### BullyWps ###
