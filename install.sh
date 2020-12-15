@@ -10,7 +10,7 @@ echo "                                \e[1;33mGithub:https://github.com/r3k4t\e[
 echo  
 echo "\e[1;34mInstallation process is start.........\e[0m" 
 echo
-apt-get -y install build-essential libpcap-dev aircrack-ng pixiewps
+sudo apt-get -y install build-essential libpcap-dev aircrack-ng pixiewps
 echo                                   
 git clone https://github.com/aanarchyy/bully.git
 echo
